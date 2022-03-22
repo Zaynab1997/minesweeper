@@ -1,0 +1,33 @@
+D:\software\BattleShipAlgorithm\BattleShipAlgorithm\bin\Debug\BattleShipAlgorithm.exe
+D:\software\BattleShipAlgorithm\BattleShipAlgorithm\bin\Debug\BattleShipAlgorithm.pdb
+D:\software\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\software\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.Properties.Resources.resources
+D:\software\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\software\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\software\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.exe
+D:\software\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.pdb
+D:\software\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.MainForm.resources
+C:\Users\HP\Desktop\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.exe
+C:\Users\HP\Desktop\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.pdb
+C:\Users\HP\Desktop\BattleShipAlgorithm\BattleShipAlgorithm\bin\Debug\BattleShipAlgorithm.exe
+C:\Users\HP\Desktop\BattleShipAlgorithm\BattleShipAlgorithm\bin\Debug\BattleShipAlgorithm.pdb
+C:\Users\HP\Desktop\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.MainForm.resources
+C:\Users\HP\Desktop\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.Properties.Resources.resources
+C:\Users\HP\Desktop\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\old\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.exe
+C:\Users\HP\Desktop\old\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.pdb
+C:\Users\HP\Desktop\old\BattleShipAlgorithm\BattleShipAlgorithm\bin\Debug\BattleShipAlgorithm.exe
+C:\Users\HP\Desktop\old\BattleShipAlgorithm\BattleShipAlgorithm\bin\Debug\BattleShipAlgorithm.pdb
+C:\Users\HP\Desktop\old\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\old\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.MainForm.resources
+C:\Users\HP\Desktop\old\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.Properties.Resources.resources
+C:\Users\HP\Desktop\old\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\bin\Debug\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.exe
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\bin\Debug\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.pdb
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\bin\Debug\BattleShipAlgorithm\BattleShipAlgorithm\bin\Debug\BattleShipAlgorithm.exe
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\bin\Debug\BattleShipAlgorithm\BattleShipAlgorithm\bin\Debug\BattleShipAlgorithm.pdb
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\bin\Debug\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\bin\Debug\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.MainForm.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\bin\Debug\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.Properties.Resources.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\bin\Debug\BattleShipAlgorithm\BattleShipAlgorithm\obj\x86\Debug\BattleShipAlgorithm.csproj.GenerateResource.Cache
