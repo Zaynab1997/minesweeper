@@ -1,0 +1,185 @@
+C:\Users\HP\documents\visual studio 2015\Projects\minesweeper v1\minesweeper v1\bin\Debug\minesweeper v1.exe.config
+C:\Users\HP\documents\visual studio 2015\Projects\minesweeper v1\minesweeper v1\obj\Debug\minesweeper v1.exe
+C:\Users\HP\documents\visual studio 2015\Projects\minesweeper v1\minesweeper v1\obj\Debug\minesweeper v1.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\minesweeper v1\minesweeper v1\obj\Debug\minesweeper v1.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2015\Projects\minesweeper v1\minesweeper v1\obj\Debug\minesweeper_v1.Form1.resources
+C:\Users\HP\documents\visual studio 2015\Projects\minesweeper v1\minesweeper v1\obj\Debug\minesweeper_v1.Form2.resources
+C:\Users\HP\documents\visual studio 2015\Projects\minesweeper v1\minesweeper v1\obj\Debug\minesweeper_v1.Form3.resources
+C:\Users\HP\documents\visual studio 2015\Projects\minesweeper v1\minesweeper v1\obj\Debug\minesweeper_v1.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2015\Projects\minesweeper v1\minesweeper v1\obj\Debug\minesweeper v1.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2015\Projects\minesweeper v1\minesweeper v1\bin\Debug\minesweeper v1.exe
+C:\Users\HP\documents\visual studio 2015\Projects\minesweeper v1\minesweeper v1\bin\Debug\minesweeper v1.pdb
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\bin\Debug\minesweeper v1.exe.config
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\obj\Debug\minesweeper v1.exe
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\obj\Debug\minesweeper v1.pdb
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\bin\Debug\minesweeper v1.exe
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\bin\Debug\minesweeper v1.pdb
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\obj\Debug\minesweeper v1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\obj\Debug\minesweeper_v1.Form1.resources
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\obj\Debug\minesweeper_v1.Form2.resources
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\obj\Debug\minesweeper_v1.Form3.resources
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\obj\Debug\minesweeper_v1.Properties.Resources.resources
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\obj\Debug\minesweeper v1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\obj\Debug\minesweeper_v1.Form4.resources
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\obj\Debug\minesweeper_v1.Form5.resources
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\obj\Debug\minesweeper_v1.Form7.resources
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\obj\Debug\minesweeper_v1.Form6.resources
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\obj\Debug\minesweeper_v1.Form8.resources
+C:\Users\HP\Desktop\minesweeper v1\minesweeper v1\obj\Debug\minesweeper_v1.Form9.resources
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\bin\Debug\minesweeper v1.exe.config
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper v1.exe
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper v1.pdb
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\bin\Debug\minesweeper v1.exe
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\bin\Debug\minesweeper v1.pdb
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper v1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form1.resources
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form2.resources
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form3.resources
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form4.resources
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form5.resources
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form6.resources
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form7.resources
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form8.resources
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form9.resources
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Properties.Resources.resources
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper v1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form0.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\bin\Debug\minesweeper v1.exe.config
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper v1.exe
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper v1.pdb
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\bin\Debug\minesweeper v1.exe
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\bin\Debug\minesweeper v1.pdb
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper v1.csprojResolveAssemblyReference.cache
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form0.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form1.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form2.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form3.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form4.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form5.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form6.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form7.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form8.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form9.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper_v1.Properties.Resources.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (9-1)\minesweeper v1\obj\Debug\minesweeper v1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\bin\Debug\minesweeper v1.exe.config
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper v1.exe
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper v1.pdb
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\bin\Debug\minesweeper v1.exe
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\bin\Debug\minesweeper v1.pdb
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper v1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form0.resources
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form1.resources
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form2.resources
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form3.resources
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form4.resources
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form5.resources
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form6.resources
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form7.resources
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form8.resources
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form9.resources
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Properties.Resources.resources
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper v1.csproj.GenerateResource.Cache
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\bin\Debug\minesweeper v1.exe.config
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper v1.exe
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper v1.pdb
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\bin\Debug\minesweeper v1.exe
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\bin\Debug\minesweeper v1.pdb
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper v1.csprojResolveAssemblyReference.cache
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form0.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form1.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form2.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form3.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form4.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form5.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form6.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form7.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form8.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form9.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Properties.Resources.resources
+C:\Users\User1\Documents\Visual Studio 2015\Projects\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper v1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\minesweeper v1 (31-1)\minesweeper v1\obj\Debug\minesweeper_v1.Form10.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\bin\Debug\minesweeper v1.exe.config
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper v1.exe
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper v1.pdb
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\bin\Debug\minesweeper v1.exe
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\bin\Debug\minesweeper v1.pdb
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper v1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper_v1.Form0.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper_v1.Form1.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper_v1.Form10.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper_v1.Form2.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper_v1.Form3.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper_v1.Form4.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper_v1.Form5.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper_v1.Form6.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper_v1.Form7.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper_v1.Form8.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper_v1.Form9.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper_v1.Properties.Resources.resources
+C:\Users\HP\Desktop\minesweeper v1 (2-2)\minesweeper v1\obj\Debug\minesweeper v1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\bin\Debug\minesweeper v1.exe.config
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.exe
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.pdb
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\bin\Debug\minesweeper v1.exe
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\bin\Debug\minesweeper v1.pdb
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form0.resources
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form1.resources
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form10.resources
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form2.resources
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form3.resources
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form4.resources
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form5.resources
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form6.resources
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form7.resources
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form8.resources
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form9.resources
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Properties.Resources.resources
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Progress_bar.resources
+F:\minesweeper\minesweeper  2017\minesweeper v1\bin\Debug\minesweeper v1.exe.config
+F:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.exe
+F:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.pdb
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\bin\Debug\minesweeper v1.exe.config
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\bin\Debug\minesweeper v1.exe
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\bin\Debug\minesweeper v1.pdb
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.csprojAssemblyReference.cache
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form0.resources
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form1.resources
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form10.resources
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form2.resources
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form3.resources
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form4.resources
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form5.resources
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form6.resources
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form7.resources
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form8.resources
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form9.resources
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Progress_bar.resources
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Properties.Resources.resources
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.csproj.GenerateResource.cache
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.csproj.CoreCompileInputs.cache
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.exe
+C:\Users\Asus ROG\Desktop\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.pdb
+D:\minesweeper\minesweeper  2017\minesweeper v1\bin\Debug\minesweeper v1.exe.config
+D:\minesweeper\minesweeper  2017\minesweeper v1\bin\Debug\minesweeper v1.exe
+D:\minesweeper\minesweeper  2017\minesweeper v1\bin\Debug\minesweeper v1.pdb
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.csprojAssemblyReference.cache
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form0.resources
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form1.resources
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form10.resources
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form2.resources
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form3.resources
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form4.resources
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form5.resources
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form6.resources
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form7.resources
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form8.resources
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Form9.resources
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Progress_bar.resources
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper_v1.Properties.Resources.resources
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.csproj.GenerateResource.cache
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.csproj.CoreCompileInputs.cache
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.exe
+D:\minesweeper\minesweeper  2017\minesweeper v1\obj\Debug\minesweeper v1.pdb
